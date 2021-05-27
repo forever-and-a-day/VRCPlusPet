@@ -10,9 +10,9 @@ Hides VRC+ advertising, can replace default pet, his phrases, poke sounds and ch
 <h3>Notice!</h3>
 This mod in its current state, breaks emmVRC's Plus check. This is not an intended function. Please be aware that abusing this mod to add emmVRC Favorites is abuse of the emmVRC Network! Doing so will likely result in a ban if (again, likely) emmVRC moves to checking your supporter tag server-side with their own servers. DO NOT add emmVRC Favorites without VRC+. If you get VRC+, you don't even need this mod, just use the original by WhiteSnowflake! This mod is intended only to let free users use/customize the cat, or remove the VRC+ ads if you don't use emmVRC.<br>
 <br>
-If someone knows how to make this not interfere with emmVRC, *please* submit a pull request! I don't know C#, unfortunately, but will accept commits that clearly aren't malicious or obfuscated! Same goes for maintenance or improvements! <br>
+If someone knows how to make this not interfere with emmVRC, <i>please</i> submit a pull request! I don't know C#, unfortunately, but will accept commits that clearly aren't malicious or obfuscated! Same goes for maintenance or improvements! <br>
 <br> <!-- wtf github why ur markdown so weird? the first and second paragraphs have line breaks already but I need a fucking br tags to everything to get one here??? -->
-If your name is Emilia or you otherwise develop for emmVRC, I would *strongly* recommend you preform your VRC+ checks from your own server at game run time using the Player API and the system_supporter tag, then have the local mod pull that information from your server (and reject new favs server-side if the local mod sends them anyway). If this method is truly technically impossible, please let me know on discord (forever-and-a-day#3000) and I'll take this mod down. 
+If your name is Emilia or you otherwise develop for emmVRC, I would <i>strongly</i> recommend you preform your VRC+ checks from your own server at game run time using the Player API and the system_supporter tag, then have the local mod pull that information from your server (and reject new favs server-side if the local mod sends them anyway). If this method is truly technically impossible, please let me know on discord (forever-and-a-day#3000) and I'll take this mod down. 
 
 
 <h3>Main Features:</h3>
