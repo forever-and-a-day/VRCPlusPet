@@ -2,7 +2,7 @@
 <!-- general TODO: tweak WhiteSnowflake's instructions to mention mod config in UIX, and update mentioned prefs to not be out-of-date w/in-game ones -->
 <!-- Note to self: consider reuploading text bubble image to other hosting provider, discord cdn might not be the best especially since you need it to use said feature -->
 
-As a plus subscriber myself, I don't VRCat is a significant driver of subscriptions. Enjoy!
+As a plus subscriber myself, I don't think VRCat is a significant driver of subscriptions. Enjoy!
 
 VRChat Mod that uses [MelonLoader](https://github.com/HerpDerpinstine/MelonLoader). <br>
 Hides VRC+ advertising, can replace default pet, his phrases, poke sounds and chat bubble.
