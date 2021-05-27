@@ -8,12 +8,12 @@ namespace VRCPlusPet
 {
     public static class BuildInfo
     {
-        public const string Name = "VRCPlusPet";
-        public const string Description = "Hides VRC+ advertising, can replace default pet, his phrases, poke sounds and chat bubble.";
-        public const string Author = "WhiteSnowflake";
-        public const string Company = null;
-        public const string Version = "1.1.7";
-        public const string DownloadLink = "https://github.com/WhiteSnowflake/VRCPlusPet";
+        public const string Name = "VRCPlusPet-Free";
+        public const string Description = "Hides VRC+ advertising, can replace default pet, his phrases, poke sounds and chat bubble. Now works again without VRC Plus!";
+        public const string Author = "forever-and-a-day";
+        public const string Company = "Spiral";
+        public const string Version = "1.1.7.1";
+        public const string DownloadLink = "https://github.com/forever-and-a-day/VRCPlusPet-Free";
     }
 
     public class VRCPlusPet : MelonMod
