@@ -7,6 +7,9 @@ As a plus subscriber myself, I don't think VRCat is a significant driver of subs
 VRChat Mod that uses [MelonLoader](https://github.com/HerpDerpinstine/MelonLoader). <br>
 Hides VRC+ advertising, can replace default pet, his phrases, poke sounds and chat bubble.
 
+❗ Final Notice ❗
+For multiple reasons, including compatibility with VRChat Build 1101, this mod is obsolete. Therefore, this repo is being archived. I've learned a lot, and hope to learn more in the future. If you want to further this mod's goal through contributions, feel free to contact me on discord (ID in profile) and I'll consider putting it back up. For now, though, so long! Off to new adventures! Love ya! <br>
+
 <h3>Notice!</h3>
 This mod in its current state, breaks emmVRC's Plus check. This is not an intended function. Please be aware that abusing this mod to add emmVRC Favorites is abuse of the emmVRC Network! Doing so will likely result in a ban if (again, likely) emmVRC moves to checking your supporter tag server-side with their own servers. DO NOT add emmVRC Favorites without VRC+. If you get VRC+, you don't even need this mod, just use the original by WhiteSnowflake! This mod is intended only to let free users use/customize the cat, or remove the VRC+ ads if you don't use emmVRC.<br>
 <br>
